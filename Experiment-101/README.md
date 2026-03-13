@@ -53,6 +53,8 @@ int main(void) {
 }
 ```
 ## Output
+<img width="1920" height="1038" alt="PragaQNX_EXP_01" src="https://github.com/user-attachments/assets/b89ec8d6-de55-415f-a8d4-a322d126a718" />
+
 
 ---
 
