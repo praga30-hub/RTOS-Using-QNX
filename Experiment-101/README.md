@@ -1,7 +1,4 @@
-# EXPERIMENT-101
-
-## Experiment Title  
-**Hello World Application on QNX: VMware Virtual Machine and Raspberry Pi**
+## Experiment-101 : Hello World Application on QNX: VMware Virtual Machine and Raspberry Pi
 
 ---
 
