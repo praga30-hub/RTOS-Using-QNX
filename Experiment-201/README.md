@@ -125,6 +125,7 @@ Child 3 running after parent exit. My PID = 1203, New Parent PID = 1
 ---
 
 # Ouput
+<img width="1920" height="1039" alt="PragaQNX_EXP_02a" src="https://github.com/user-attachments/assets/07647408-6f04-4fb0-a533-0e65bad3f215" />
 
 ---
 
