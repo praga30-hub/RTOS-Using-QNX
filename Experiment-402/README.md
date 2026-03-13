@@ -1,4 +1,4 @@
-# Experiment: Repeating Timer using Pulse Messages in QNX
+# Experiment 402: Repeating Timer using Pulse Messages in QNX
 
 ## Aim
 
