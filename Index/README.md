@@ -22,12 +22,11 @@
 I confirm that the experiments and GitHub Links provided are entirely my own work.
 
 **Name:**  
-
 <p align="right">
-    <b>Register Number:<\b>  
+    <b>Register Number:  
 </p>
 
 **Date:**
 <p align="right">
-    <b>Learner Signature:<\b>  
+    <b>Learner Signature:  
 </p>
