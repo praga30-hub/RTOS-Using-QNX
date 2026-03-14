@@ -118,7 +118,7 @@ Parent exiting now. PID = 1200
 Child 1 running after parent exit. My PID = 1201, New Parent PID = 1
 Child 2 running after parent exit. My PID = 1202, New Parent PID = 1
 Child 3 running after parent exit. My PID = 1203, New Parent PID = 1
-```
+```                                                       
 
 *(After the parent exits, the child processes are adopted by the **init process (PID 1)**.)*
 
