@@ -98,6 +98,8 @@ Interrupt received! , Count is 3
 Interrupt received! , Count is 4
 ...
 ```
+# OUTPUT
+<img width="1920" height="1080" alt="exp401" src="https://github.com/user-attachments/assets/bf5070ca-8bb3-4346-9d84-6b0bd70456b8" />
 
 *(The counter increases each time the interrupt occurs.)*
 
