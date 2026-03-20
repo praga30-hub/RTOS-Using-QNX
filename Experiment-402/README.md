@@ -169,6 +169,7 @@ got our pulse, the timer must have expired
 ---
 
 # Output
+<img width="1920" height="1080" alt="exp402timer" src="https://github.com/user-attachments/assets/b2e111d4-b94f-4c98-b58a-43c079333a93" />
 
 
 ---
