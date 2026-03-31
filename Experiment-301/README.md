@@ -248,6 +248,8 @@ MsgSend return status: 0
 ---
 
 # Output
+<img width="1437" height="363" alt="image" src="https://github.com/user-attachments/assets/d9a4ad90-1256-40e7-a57c-41beab676f90" />
+<img width="1437" height="358" alt="image" src="https://github.com/user-attachments/assets/806022e6-9a70-4c09-a3cc-fdd9f174c4c8" />
 
 ---
 
